@@ -19,7 +19,7 @@ import slide_image_7 from './assets/images/img_7.jpg';
 function App() {
   return (
     <div className="container">
-      <h1 className="heading">Flower Gallery</h1>
+      <h1 className="heading">Mazza Fashion</h1>
       <Swiper
         autoplay={true}
         effect={'coverflow'}
