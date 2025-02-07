@@ -11,7 +11,6 @@ import { EffectCoverflow, Pagination, Navigation } from 'swiper';
 import slide_image_1 from './assets/images/img_1.jpg';
 import slide_image_2 from './assets/images/img_2.jpg';
 import slide_image_3 from './assets/images/img_3.jpg';
-import slide_image_4 from './assets/images/img_4.jpg';
 import slide_image_5 from './assets/images/img_5.jpg';
 import slide_image_6 from './assets/images/img_6.jpg';
 import slide_image_7 from './assets/images/img_7.jpg';
@@ -57,11 +56,6 @@ function App() {
         <SwiperSlide>
           <a href="https://api.whatsapp.com/send?phone=5562982350030&text=Quero%20fazer%20um%20agendamento%20hoje!" target="_blank"> 
           <img src={slide_image_3} alt="slide_image" />
-          </a>
-        </SwiperSlide>
-        <SwiperSlide>
-          <a href="https://api.whatsapp.com/send?phone=5562982350030&text=Quero%20fazer%20um%20agendamento%20hoje!" target="_blank"> 
-          <img src={slide_image_4} alt="slide_image" />
           </a>
         </SwiperSlide>
         <SwiperSlide>
