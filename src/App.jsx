@@ -17,7 +17,12 @@ function App() {
           <li> Calçados </li>
           <li> Acessórios </li>
         </ul>
-        <button>Contato</button>
+        <a href="https://api.whatsapp.com/send?phone=5562982350030&text=Quero%20fazer%20um%20agendamento%20hoje!" target="_blank">
+          <button>
+            <img src="zap.png" alt="icone whatsapp" />
+            <span>Contato</span>
+          </button>
+        </a>
       </header>
       
       <Slide />
@@ -35,8 +40,8 @@ function App() {
           <h3 data-aos="fade-up" data-aos-delay="500" className='sub-titulo'>Uma marca que <br /> já diz tudo</h3>
 
           <a href="https://api.whatsapp.com/send?phone=5562982350030&text=Quero%20fazer%20um%20agendamento%20hoje!" target="_blank">
-            <button data-aos="fade-right" data-aos-delay="500" className='home-button'>
-          
+            <button>
+              <img src="zap.png" alt="icone whatsapp" />
               <span>Contato</span>
             </button>
           </a>
