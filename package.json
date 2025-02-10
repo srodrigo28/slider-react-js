@@ -10,11 +10,14 @@
   },
   "dependencies": {
     "3d-slider": "file:",
+    "aos": "^2.3.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.29.0",
     "swiper": "^9.0.3"
   },
   "devDependencies": {
+    "@types/aos": "^3.0.7",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "@vitejs/plugin-react": "^3.1.0",
