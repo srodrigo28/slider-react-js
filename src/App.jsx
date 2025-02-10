@@ -47,13 +47,13 @@ function App() {
           <div data-aos="fade-up" data-aos-delay="500" className='right-item-l'>
             <a href="https://api.whatsapp.com/send?phone=5562982350030&text=Quero%20fazer%20um%20agendamento%20hoje!" target="_blank">
               <div className="right-square">
-                <img src="modelos/mazza-12.jpg" alt="não carregou" />
+                <img src="modelos/mazza-38.jpg" alt="não carregou" />
               </div>
             </a>
 
             <a href="https://api.whatsapp.com/send?phone=5562982350030&text=Quero%20fazer%20um%20agendamento%20hoje!" target="_blank">
               <div className="right-rectangle">
-                <img src="modelos/mazza-12.jpg" alt="não carregou" />
+                <img src="modelos/mazza-19.jpg" alt="não carregou" />
               </div>
             </a>
           </div>
@@ -61,7 +61,7 @@ function App() {
           <div data-aos="fade-down" data-aos-delay="500" className='right-item-2'>
             <a href="https://api.whatsapp.com/send?phone=5562982350030&text=Quero%20fazer%20um%20agendamento%20hoje!" target="_blank">
               <div className="right-square">
-                <img src="modelos/mazza-36.jpg" alt="não carregou" />
+                <img src="modelos/mazza-25.jpg" alt="não carregou" />
               </div>
             </a>
 
@@ -74,14 +74,14 @@ function App() {
 
           <div data-aos="fade-up" data-aos-delay="500" className='right-item-3'>
             <a href="https://api.whatsapp.com/send?phone=5562982350030&text=Quero%20fazer%20um%20agendamento%20hoje!" target="_blank">
-              <div className="right-square">
-                <img src="modelos/mazza-10.jpg" alt="não carregou" />
+              <div className="right-square tree-1">
+                <img src="modelos/mazza-34.jpg" alt="não carregou" />
               </div>
             </a>
 
             <a href="https://api.whatsapp.com/send?phone=5562982350030&text=Quero%20fazer%20um%20agendamento%20hoje!" target="_blank">
 
-              <div className="right-rectangle">
+              <div className="right-rectangle tree-2">
                 <img src="modelos/mazza-10.jpg" alt="não carregou" />
               </div>
             </a>

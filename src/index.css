@@ -90,7 +90,7 @@ body {
   }
   .swiper-slide {
     width: 28rem !important;
-    height: 36rem !important;
+    height: 36rem !important;;
   }
   .swiper-slide img {
     width: 28rem !important;
@@ -134,6 +134,7 @@ body {
   .slider-controler .swiper-button-next {
     left: 80% !important;
     transform: translateX(-80%) !important;
+
   }
 }
 
@@ -147,7 +148,7 @@ body {
 @media (max-width: 450px) {
   .slider-controler .swiper-button-prev {
     left: 20% !important;
-    transform: translateX(-20%) !important;
+    transform: translateX(-20%) !important;;
   }
 }
 
